@@ -129,13 +129,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\icong.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\joinDiscord.png" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="icong.ico" />
+    <Content Include="Resources\icong.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

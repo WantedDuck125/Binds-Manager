@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Binds Manager")]
 [assembly: AssemblyDescription("Binds Manager")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Kognity's Playhouse")]
+[assembly: AssemblyCompany("Duck Central")]
 [assembly: AssemblyProduct("BindsManager")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
